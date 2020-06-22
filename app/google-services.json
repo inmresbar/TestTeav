@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772499875144",
+    "firebase_url": "https://testteav3-defa1.firebaseio.com",
+    "project_id": "testteav3-defa1",
+    "storage_bucket": "testteav3-defa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772499875144:android:f6261a20930db7f082bf7d",
+        "android_client_info": {
+          "package_name": "us.etsii.testteav3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772499875144-gkd4v7fmbirl57edjc3f78fg5avnrt6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "us.etsii.testteav3",
+            "certificate_hash": "706adebe0983cffc3bb6f4463a6e21cd14a08e28"
+          }
+        },
+        {
+          "client_id": "772499875144-ftucv9c3c455fqd87c32ugmdf34gqd3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADfOlPYwkFADDuz5Id6v6KMWmpomzAurE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772499875144-ftucv9c3c455fqd87c32ugmdf34gqd3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

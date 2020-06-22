@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">TestTea.v3</string>
+
+    <array name="all_questions">
+        <item>1.¿Le gusta que le balanceen, o que el adulto le haga el caballito sentándole en sus
+            rodillas, etc.?
+        </item>
+        <item>2.¿Muestra interés por otros niños o niñas?</item>
+        <item>3.¿Le gusta subirse a sitios como, por ejemplo, sillones, escalones, juegos del
+            parque,etc.?
+        </item>
+        <item>4.¿Le gusta que el adulto juegue con él o ella al "cucú-tras"? (taparse los ojos y
+            luego descubrirlos;jugar a esconderse y aparecer de repente)
+        </item>
+        <item>5.¿Alguna vez hace juegos imaginativos, por ejemplo haciendo como si hablara por
+            teléfono, como si estuviera dando de comer a una muñeca, como si estuviera conduciendo
+            un coche o cosas así?
+        </item>
+        <item>6.¿Suele señalar con el dedo para pedir algo?</item>
+        <item>7.¿Suele señalar con el dedo para indicar que algo le llama la atención?</item>
+        <item>8.¿Puede jugar adecuadamente con piezas o juguetes pequeños (por ejemplo cochecitos,
+            muñequitos o bloques de construcción) sin únicamente chuparlos, aguitarlos o tirarlos?
+        </item>
+        <item>9.¿Suele traerle objetos para enseñarselos?</item>
+        <item>10.¿Suele mirarle los ojos durante unos segundos?</item>
+        <item>11.¿Le parece demasiado sensible a ruidos poco intensos? (por ejemplo, reacciona
+            tapándose los oídos, etc.?
+        </item>
+        <item>12.¿Sonríe al verle a usted o cuando usted sonríe?</item>
+        <item>13.¿Puede imitar o repetir gestos o acciones que usted hace? (por ejemplo, si usted
+            hace una mueca él o ella también la hace)
+        </item>
+        <item>14.¿Responde cuando se le llama por su nombre?</item>
+        <item>15.Si usted señala con el dedo un juguete al otro lado de la habitación… ¿Dirige su
+            hijo o hija la mirada hacia ese juguete?
+        </item>
+        <item>16.¿Ha aprendido ya a andar?</item>
+        <item>17.Si usted está mirando algo atentamente, ¿su hijo o hija se pone también a
+            mirarlo?
+        </item>
+        <item>18.¿Hace su hijo o hija movimientos raros con los dedos, por ejemplo, acercándoselos a
+            los ojos?
+        </item>
+        <item>19.¿Intenta que usted preste atención a las actividades que él o ella está haciendo?
+        </item>
+        <item>20.¿Alguna vez ha pensado que su hijo o hija podría tener sordera?</item>
+        <item>21.¿Entiende su hijo o hija lo que la gente dice?</item>
+        <item>22.¿Se queda a veces mirando al vacío o va de un lado al otro sin propósito?</item>
+        <item>23.Si su hijo o hija tiene que enfrentarse a una situación desconocida, ¿le mira
+            primero a usted a la cara para saber cómo reaccionar?
+        </item>
+    </array>
+    <string name="title_activity_respuestas">Respuestas</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
